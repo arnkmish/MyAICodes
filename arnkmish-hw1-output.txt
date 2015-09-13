@@ -1,0 +1,104 @@
+* ARNAB KUMAR MISHRA (ARNKMISH) *
+
+arnkmish@arnab-PC:~$ cd Documents/
+arnkmish@arnab-PC:~/Documents$ python arnkmish-hw1.py 
+Please enter X to play as X or O to play as O: x
+  |   |   
+  |   |   
+  |   |   
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 5
+O |   |   
+  | X |   
+  |   |   
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 3
+O |   | O 
+  | X |   
+  |   | X 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 8
+O | X | O 
+  | X |   
+  | O | X 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 6
+O | X | O 
+O | X | X 
+  | O | X 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 1
+Draw
+O | X | O 
+O | X | X 
+X | O | X 
+arnkmish@arnab-PC:~/Documents$ python arnkmish-hw1.py 
+Please enter X to play as X or O to play as O: o
+  |   |   
+  | X |   
+  |   |   
+O 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 8
+  | O |   
+  | X |   
+X |   |   
+O 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 9
+X | O | O 
+  | X |   
+X |   |   
+O 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 3
+X won!!!
+X | O | O 
+X | X |   
+X |   | O 
+arnkmish@arnab-PC:~/Documents$ 
