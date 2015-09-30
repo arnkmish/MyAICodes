@@ -1,0 +1,94 @@
+Script started on Fri 25 Sep 2015 03:39:56 AM EDT
+]0;arnkmish@silo:~[?1034h[arnkmish@silo ~]$ python Search.py 
+Doing Breadth First Search on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000159978866577 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Depth First Search  on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000149965286255 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h1 on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000155925750732 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h1 on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000152111053467 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h2 on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000159978866577 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h2 on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000154972076416 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Breadth First Search on easy:
+The solution's cost is: 2.1, and involved expanding 11 verticies
+Finding the solution involved 0.00288987159729 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Depth First Search  on easy:
+The solution's cost is: 10.1, and involved expanding 35 verticies
+Finding the solution involved 0.00958299636841 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h1 on easy:
+The solution's cost is: 2.1, and involved expanding 10 verticies
+Finding the solution involved 0.00287699699402 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h1 on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+Finding the solution involved 0.00110507011414 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h2 on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+Finding the solution involved 0.00114011764526 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h2 on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+Finding the solution involved 0.00114107131958 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Breadth First Search on medium:
+Ran out of time for thinking
+The queue is of size: 5701
+Doing Depth First Search  on medium:
+Ran out of time for thinking
+The queue is of size: 1988
+Doing Best First with heuristic h1 on medium:
+The solution's cost is: 24.3, and involved expanding 38 verticies
+Finding the solution involved 0.0255970954895 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h1 on medium:
+The solution's cost is: 18.1, and involved expanding 693 verticies
+Finding the solution involved 0.839256763458 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic h2 on medium:
+The solution's cost is: 24.3, and involved expanding 38 verticies
+Finding the solution involved 0.0161209106445 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic h2 on medium:
+The solution's cost is: 17.3, and involved expanding 208 verticies
+Finding the solution involved 0.128633975983 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Breadth First Search on hard:
+Ran out of time for thinking
+The queue is of size: 6568
+Doing Depth First Search  on hard:
+Ran out of time for thinking
+The queue is of size: 4064
+Doing Best First with heuristic h1 on hard:
+Ran out of time for thinking
+The queue is of size: 8394
+Doing A* with heuristic h1 on hard:
+Ran out of time for thinking
+The queue is of size: 8782
+Doing Best First with heuristic h2 on hard:
+Ran out of time for thinking
+The queue is of size: 3602
+Doing A* with heuristic h2 on hard:
+The solution's cost is: 42.3, and involved expanding 1597 verticies
+Finding the solution involved 3.58179211617 seconds of walltime
+----------------------------------------------------------------------------------
+]0;arnkmish@silo:~[arnkmish@silo ~]$ exit
+
+Script done on Fri 25 Sep 2015 03:44:04 AM EDT
